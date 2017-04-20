@@ -1,0 +1,74 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "f7",
+        "scope": null,
+        "escapedName": "f7",
+        "name": "f7",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "D:\\AppServ\\www\\www\\test"
+    ]
+  ],
+  "_from": "f7@latest",
+  "_id": "f7@1.0.1",
+  "_inCache": true,
+  "_location": "/f7",
+  "_nodeVersion": "7.7.1",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/f7-1.0.1.tgz_1492507465741_0.388801883906126"
+  },
+  "_npmUser": {
+    "name": "zys",
+    "email": "770959294@qq.com"
+  },
+  "_npmVersion": "4.4.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "f7",
+    "scope": null,
+    "escapedName": "f7",
+    "name": "f7",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/f7/-/f7-1.0.1.tgz",
+  "_shasum": "8782c83af1c66cf4fade607cc292c317162c8814",
+  "_shrinkwrap": null,
+  "_spec": "f7",
+  "_where": "D:\\AppServ\\www\\www\\test",
+  "author": "",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "description": "FRAMEWORK7框架整合",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "8782c83af1c66cf4fade607cc292c317162c8814",
+    "tarball": "https://registry.npmjs.org/f7/-/f7-1.0.1.tgz"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "zys",
+      "email": "770959294@qq.com"
+    }
+  ],
+  "name": "f7",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
+}
